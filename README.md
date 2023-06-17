@@ -1,11 +1,11 @@
-About r-phylogram
-=================
+About r-phylogram-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylogram-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/ropensci/phylogram
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylogram-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains functions for developing phylogenetic trees as deeply-nested lists ("dendrogram" objects). Enables bi-directional conversion between dendrogram and "phylo" objects (see Paradis et al (2004) <doi:10.1093/bioinformatics/btg412>), and features several tools for command-line tree manipulation and import/export via Newick parenthetic text.
 
